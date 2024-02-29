@@ -4,18 +4,14 @@
 
 a {
     margin-right: 25px;
+    text-align: center;
 }
 
 .navbar-start {
-
+    position: auto;
+    margin-left: auto;
 }
 
-.navbar-contact {
-
-}
-.navbar-messages {
-
-}
 
 
 .navbar-end {
